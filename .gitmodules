@@ -1,0 +1,6 @@
+[submodule "IntegrationMulti1"]
+	path = IntegrationMulti1
+	url = https://github.com/Gibbo81/IntegrationMulti1.git
+[submodule "IntegrationMulti2"]
+	path = IntegrationMulti2
+	url = https://github.com/Gibbo81/IntegrationMulti2.git
